@@ -11,6 +11,7 @@
       "config": "prettier",
       "lintOn": ["save", "commit"]
     },
-    "@vue/cli-plugin-unit-jest": {}
+    "@vue/cli-plugin-unit-jest": {},
+    "@vue/cli-plugin-e2e-cypress": {}
   }
 }
